@@ -14,6 +14,5 @@ int main(){
     while((int)howManyMilisPass>control-t) {
     	time(&control);
     }
-  
 system("c:\\windows\\system32\\shutdown /s");
 }
